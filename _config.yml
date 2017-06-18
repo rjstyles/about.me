@@ -1,3 +1,5 @@
 markdown: redcarpet
 baseurl: /mywebsite
 exclude: ['README.md']
+
+theme: jekyll-theme-hacker
